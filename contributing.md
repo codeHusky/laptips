@@ -1,5 +1,7 @@
-## Contributing to user.gripe
+# Contributing to user.gripe
 There's a few things you need to keep in mind to contribute to this site without causing problems for, well, everyone else!
+
+---
 
 ## Folder Structure
 We use a pretty simple folder structure. Generally, every folder should have an `index.md` that points people to various pages within the directory.
