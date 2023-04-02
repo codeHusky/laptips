@@ -16,3 +16,10 @@ Go to the [GitHub Repo](https://github.com/codeHusky/user.gripe) and create a Pu
 Trusted folks can request direct contributor access in the Jedi Pastas Discord server. If you're not sure what that is, stick to [Pull Requests](https://github.com/codeHusky/user.gripe/pulls).
 
 Eventually, there may be a built-in editor for people with accounts. This is not fully planned and may be deemed unneeded because of the GitHub repo.
+
+### Isn't this kind of like rentry.org?
+user.gripe is very similar in premise to rentry.org, but differs in that it's not a pastebin service.
+The format of rentry.org accomplishes much of what this site does, but falls short in the access control and reliability departments.
+
+Some folks were creating rentry.org pages with information that was "low quality" at best.
+This site exists as an alternative with exclusively reliable information, saving many from confusion into the future.
