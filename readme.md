@@ -12,6 +12,7 @@ and we'll consider it!
 
 ### How do I contribute?
 Go to the [GitHub Repo](https://github.com/codeHusky/user.gripe) and create a Pull Request with any changes you'd like to make, new pages, etc.
+Be sure to check the [Contribution Guide](https://user.gripe/contributing) for details.
 
 Trusted folks can request direct contributor access in the Jedi Pastas Discord server. If you're not sure what that is, stick to [Pull Requests](https://github.com/codeHusky/user.gripe/pulls).
 
