@@ -1,3 +1,6 @@
 {
-    "/miniled": "/laptops/windows-miniled"
+    "/miniled": "/laptops/windows-miniled",
+    "/asus": "/laptops/asus/index",
+    "/repaste": "/tips/laptops/repasting",
+    "/repasting": "/tips/laptops/repasting"
 }

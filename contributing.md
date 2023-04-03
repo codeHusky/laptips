@@ -26,3 +26,17 @@ Examples of bad file names:
 In addition to these rules, your file names must not overlap with a folder name. 
 
 For example, you should not have a `laptops.md` in the same folder as a `laptops/` folder. Instead, you should create a `index.md` within the `laptops/` folder.
+
+## Aliases
+You can create aliases for quick access to resources in the `aliases.json` file. These should be created sparingly and should always point to the most up-to-date information that's relevant to the alias URL. For example, `/legion-7` should point to the current year's page for the Lenovo Legion 7.
+
+This is an example file demonstrating a few aliases. If this format is confusing, please familiarize yourself with the syntax in JSON files.
+```json
+{
+    "/miniled": "/laptops/windows-miniled",
+    "/asus": "/laptops/asus/index",
+    "/repaste": "/tips/laptops/repasting",
+    "/repasting": "/tips/laptops/repasting"
+}```
+
+Each alias can only have one file mapping, but multiple aliases can point to the same file. All aliases must be lowercase as request paths are processed in lowercase.
