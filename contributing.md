@@ -37,6 +37,7 @@ This is an example file demonstrating a few aliases. If this format is confusing
     "/asus": "/laptops/asus/index",
     "/repaste": "/tips/laptops/repasting",
     "/repasting": "/tips/laptops/repasting"
-}```
+}
+```
 
 Each alias can only have one file mapping, but multiple aliases can point to the same file. All aliases must be lowercase as request paths are processed in lowercase.
