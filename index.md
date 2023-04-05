@@ -1,4 +1,4 @@
-# ![logo](/static/img/icon-light.png "50x50") lap.tips
+# ![](/static/img/icon-light.png "50x50") lap.tips
 lap.tips is dedicated to tips and helpful information, primarily centered around laptops. The domain, lap.tips, is short for laptop tips.
 
 Information on this site is currently curated by a select set of users from various Discord tech communities.
