@@ -6,7 +6,11 @@ Displays are a tricky thing to understand, mainly because there's a lot of termi
 ## Bit Depth
 Displays all support varied levels of "Bit depth," the most common of which is 8-bit. This "bit depth" defines how much data is allotted per pixel for selecting a color. In essence, higher bit depth values provide larger ranges of color for monitors. 
 
-The formula for this is `x^8=y`, where `x` is the number of bits and `y` is the number of shades. For example, 8-bit color supports 256 shades. Since this is an exponential function, it's notable that 10-bit color is a signficiant upgrade in color range at 1024 shades - literally 4x the maximum color range of 8-bit. However, **bit depth does not mean the panel can discernably display every color in its range.**
+The formula for this is `x^8=y`, where `x` is the number of bits and `y` is the number of shades per channel. For example, 8-bit color supports 256 shades. Since this is an exponential function, it's notable that 10-bit color is a signficiant upgrade in color range at 1024 shades - literally 4x the maximum color range of 8-bit. However, **bit depth does not mean the panel can discernably display every color in its range.**
+
+What's notable with this is that this exponentional function also carries over to the number of colors a panel supports. The function for this is very similar to before. `y^3=z`, where `y` is the shades calculated previously and `z` is the number of colors. "3" here represents the 3 color channels of modern displays: Red, Green, and Blue.
+
+A 6-bit panel only has 250,000 colors at its disposal whereas an 8-bit panel has **over 16 million colors** within its supported range. Considering these numbers, a 6-bit panel only supports ~1.5% of the color an 8-bit panel supports. This is quite the difference. Even better than that, 10-bit panels support **over 1 billion colors**. Considering this, it's quite clear that 6-bit panels are worth avoiding at pretty much all costs.
 
 Some low-end displays have only 6-bit color with only 64 shades, but often they appear better than they otherwise would because these panels can employ "FRC" technology to display some intermediate shades. This will result in them reporting as 8-bit panels on many operating systems when they are not. The easiest way to tell is to look for a "noise" pattern in solid colors displayed on your screen - if that's present, it's likely your panel is using FRC.
 
