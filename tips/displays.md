@@ -85,6 +85,6 @@ Not all reviewers provide T0-100% response time measurements, but **they should 
 
 You can determine what the highest "ideal" response time is for your particular display by plugging its refresh rate into this formula: `1000/r`. The reasoning behind this is that there are 1000ms (milliseconds) in every second.
 
-For example, a 60hz monitor should target a response time >=16ms. A 120hz display should target >=8ms, a 165hz should target >=6ms, and a 240hz display should target >=4ms.
+For example, a 60hz monitor should target a response time under 17ms. A 120hz display should target under 9ms, a 165hz should target undr 6ms, and a 240hz display should target under 5ms.
 
 As you can see, these numbers are far larger than the numbers touted by manufacturers. They also paint a far clearer picture of which panels are better and worse, and overall are instrumental in comparing products.
