@@ -5,11 +5,11 @@ Information on this site is currently curated by a select set of users from vari
 
 More info about this site and its authors can be found at the [FAQ](/readme).
 
+#### Helpful Info
+- **[Understanding Display Specs](/displays)**
+
 #### Laptop Brands
 - **[ASUS](/laptops/asus)**
 - **[Lenovo](/laptops/lenovo)**
 - **[MSI](/laptops/msi)**
 - **[Razer](/laptops/razer)**
-
-#### Helpful Info
-- **[Understanding Display Specs](/displays)**
