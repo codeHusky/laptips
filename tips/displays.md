@@ -83,8 +83,12 @@ For this reason, you should **generally ignore manufacturer specified response t
 #### Reviewer Response Times
 Not all reviewers provide T0-100% response time measurements, but **they should be**. If you're interested to see if a reviewer is properly testing response times, you can compare their data against data from an outlet like [RTINGS.com](https://RTINGS.com) or reputable YouTube reviewers like [Jarrod's Tech](https://www.youtube.com/jarrodstech) and [Hardware Unboxed](https://www.youtube.com/@Hardwareunboxed). Response time numbers are rarely less than 1ms except on extremely high refresh rate panels.
 
+It's worth noting here that some reviewers will report response time numbers as "0-100-0" or "20-80-20" numbers. When you see three numbers like this, this is a test of two seperate pixel transitions lumped into one number. These typically have higher "response times" and aren't what we're talking about here. This page is referring to single update response times, such as "0-100" or "80-20" response times. The numbers used here refer to where on the black-to-white scale the test shades are and don't imply any ignored data.
+
 You can determine what the highest "ideal" response time is for your particular display by plugging its refresh rate into this formula: `1000/r`. The reasoning behind this is that there are 1000ms (milliseconds) in every second.
 
-For example, a 60hz monitor should target a response time under 17ms. A 120hz display should target under 9ms, a 165hz should target undr 6ms, and a 240hz display should target under 5ms.
+For example, a 60hz monitor should target a response time under 17ms. A 120hz display should target under 9ms, a 165hz should target under 6ms, and a 240hz display should target under 5ms.
+
+When response times exceed these values by large margins (such as a 165hz panel having a response time of 24ms), the clarity of moving subjects is severely degraded. In this specific example, this 165hz panel would only be capable of rendering ~40fps content without any visual artifacts like blur or ghosting.
 
 As you can see, these numbers are far larger than the numbers touted by manufacturers. They also paint a far clearer picture of which panels are better and worse, and overall are instrumental in comparing products.
