@@ -15,9 +15,7 @@ Some low-end displays have only 6-bit color with only 64 shades, but often they 
 ## Calibration
 Not all displays are created equal. Each different model of display panel displays color slightly different than others, which can result in differing shades of color depending on where you look. Factory calibration can be useful for this reason, ensuring your seeing content as close to the intended range of colors as possible.
 
-It's worth noting that some "factory calibrated" laptop displays will sometimes appear to be washed out or have a strange yellow or blue color tint to all content. This is due to them being calibrated for specific color proofing use. In these situations, it's always possible to switch off the calibration if you'd prefer the more vibrant, while less accurate, color range.
-
-Turning off a calibration in a factory calibrated Windows laptop requires a bit of messing around with Window's color management tools. You basically need to create a new "color profile" with just the default sRGB profile. There's plenty of guides online for this, though, so just look one up for your current OS.
+It's worth noting that some "factory calibrated" laptop displays will sometimes appear to be washed out or have a strange yellow or blue color tint to all content. This is due to them being calibrated for specific color proofing use. In these situations, it's always possible to switch off the calibration if you'd prefer the more vibrant, while less accurate, color range. There's plenty of guides online for this, so just look one up for your current OS.
 
 ---
 
