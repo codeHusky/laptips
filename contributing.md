@@ -1,4 +1,4 @@
-# Contributing to user.gripe
+# Contributing to Laptips
 There's a few things you need to keep in mind to contribute to this site without causing problems for, well, everyone else!
 
 ---

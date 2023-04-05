@@ -1,2 +1,2 @@
-# Welcome to user.gripe!
+# Welcome to Laptips!
 This is our homepage.
