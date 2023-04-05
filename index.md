@@ -10,3 +10,6 @@ More info about this site and its authors can be found at the [FAQ](/readme).
 - **[Lenovo](/laptops/lenovo)**
 - **[MSI](/laptops/msi)**
 - **[Razer](/laptops/razer)**
+
+#### Helpful Info
+- **[Understanding Display Specs](/displays)**
