@@ -30,6 +30,8 @@ For example, you should not have a `laptops.md` in the same folder as a `laptops
 ## Aliases
 You can create aliases for quick access to resources in the `aliases.json` file. These should be created sparingly and should always point to the most up-to-date information that's relevant to the alias URL. For example, `/legion-7` should point to the current year's page for the Lenovo Legion 7.
 
+**Aliases should generally only be used on the root level. Avoid putting more than one slash in your alias.**
+
 This is an example file demonstrating a few aliases. If this format is confusing, please familiarize yourself with the syntax in JSON files.
 ```json
 {
